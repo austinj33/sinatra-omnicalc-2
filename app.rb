@@ -1,6 +1,6 @@
 require "sinatra"
 require "sinatra/reloader"
-
+#upload
 get("/") do
   redirect("/add")
 end
